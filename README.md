@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=520&lines=5%2B+Yrs+%7C+Microservices+%7C+Cloud-Native+Systems;Telecom+%C2%B7+Healthcare+%C2%B7+Fintech;1M%2B+Users+%7C+4+Continents+%7C+25%2B+States;99.99%25+Uptime+%7C+40%25+Cost+Reduction" />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=520&lines=5%2B+Yrs+%7C+Microservices+%7C+Cloud-Native;Telecom+%C2%B7+Healthcare+%C2%B7+Fintech;1M%2B+Users+%7C+4+Continents+%7C+25%2B+States;99.99%25+Uptime+%7C+40%25+Cost+Reduction" />
 
 <br/>
 
@@ -13,9 +13,15 @@
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" />](mailto:reddieswaranaidusunycs@gmail.com)&nbsp;
 <img src="https://img.shields.io/badge/📍_New_Paltz,_NY-333333?style=for-the-badge" height="28" />
 
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=KallaReddieswaraNaidu&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
+
 </div>
 
 <br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## About Me
 
@@ -23,7 +29,7 @@
 <tr>
 <td>
 
-🎓 &nbsp; **MS in Computer Science** @ SUNY New Paltz (2025) &nbsp;|&nbsp; 📜 **Certified Full Stack Developer** — IIT Chennai
+🎓 &nbsp;**MS in Computer Science** @ SUNY New Paltz (2025) &nbsp;|&nbsp; 📜 **Certified Full Stack Developer** — IIT Chennai
 
 I'm a Full Stack Developer with **5+ years** of experience building **production-grade distributed systems** that operate at serious scale. I don't just write code — I design systems that handle **millions of users**, process **real-time telemetry from thousands of devices**, and meet **government-grade security and compliance standards**.
 
@@ -47,7 +53,37 @@ I'm a Full Stack Developer with **5+ years** of experience building **production
 
 <br/>
 
-## Results That Matter
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🔭 &nbsp;What I'm Currently Working On
+
+<table>
+<tr>
+<td width="50%">
+
+**📡 &nbsp;@ Aviat Networks**
+- Building **multi-tenant device management** microservices for telecom infrastructure across **25+ U.S. states**
+- Engineering **real-time Kafka pipelines** for telemetry ingestion & predictive maintenance
+- Optimizing **AWS cloud infrastructure** for 99.99% uptime at scale
+
+</td>
+<td width="50%">
+
+**🧠 &nbsp;On My Own Time**
+- Deep-diving into **system design patterns** for distributed architectures
+- Exploring **event sourcing & CQRS** patterns at scale
+- Contributing to open-source Spring Boot & Kafka ecosystem tools
+- Graduating **MS in CS** from SUNY New Paltz (May 2025)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 &nbsp;Results That Matter
 
 <div align="center">
 
@@ -107,7 +143,9 @@ I'm a Full Stack Developer with **5+ years** of experience building **production
 
 <br/>
 
-## Technical Expertise
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🛠️ &nbsp;Technical Expertise
 
 <div align="center">
 
@@ -228,7 +266,78 @@ I'm a Full Stack Developer with **5+ years** of experience building **production
 
 <br/>
 
-## Professional Experience
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🏛️ &nbsp;System Architecture I Build
+
+```mermaid
+graph TB
+    subgraph CLIENT["🎨 Frontend Layer"]
+        A1[Angular SPA]
+        A2[React Components]
+    end
+
+    subgraph GATEWAY["🔐 API Gateway"]
+        G1[OAuth2 / JWT Auth]
+        G2[Rate Limiting]
+        G3[TLS/SSL Termination]
+    end
+
+    subgraph SERVICES["🏗️ Microservices Layer — Spring Boot"]
+        S1[Device Management]
+        S2[Telemetry Ingestion]
+        S3[Alarm Processing]
+        S4[User & Auth Service]
+        S5[Patient Records]
+        S6[Billing & Scheduling]
+    end
+
+    subgraph MESSAGING["📨 Event Bus"]
+        K1[Apache Kafka]
+        K2[RabbitMQ]
+    end
+
+    subgraph DATA["🗄️ Data Layer"]
+        D1[(PostgreSQL)]
+        D2[(Redis Cache)]
+        D3[(Oracle / SQL Server)]
+    end
+
+    subgraph INFRA["☁️ Cloud Infrastructure"]
+        I1[AWS ECS / EC2]
+        I2[AWS Lambda]
+        I3[Azure App Services]
+        I4[Docker + Kubernetes]
+    end
+
+    subgraph OBSERVE["📊 Observability"]
+        O1[Prometheus + Grafana]
+        O2[ELK Stack]
+        O3[AWS CloudWatch]
+    end
+
+    CLIENT --> GATEWAY
+    GATEWAY --> SERVICES
+    SERVICES --> MESSAGING
+    SERVICES --> DATA
+    MESSAGING --> SERVICES
+    SERVICES --> INFRA
+    INFRA --> OBSERVE
+
+    style CLIENT fill:#1a1a2e,stroke:#58A6FF,color:#fff
+    style GATEWAY fill:#1a1a2e,stroke:#ff6b6b,color:#fff
+    style SERVICES fill:#1a1a2e,stroke:#6DB33F,color:#fff
+    style MESSAGING fill:#1a1a2e,stroke:#FF6600,color:#fff
+    style DATA fill:#1a1a2e,stroke:#4169E1,color:#fff
+    style INFRA fill:#1a1a2e,stroke:#FF9900,color:#fff
+    style OBSERVE fill:#1a1a2e,stroke:#E6522C,color:#fff
+```
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 💼 &nbsp;Professional Experience
 
 <img src="https://img.shields.io/badge/📡_AVIAT_NETWORKS-Full_Stack_Developer-58A6FF?style=for-the-badge&labelColor=0D1117" />
 
@@ -310,7 +419,9 @@ Built full-stack fintech applications with Angular and Spring Boot, implementing
 
 <br/>
 
-## How I Think About Systems
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🧠 &nbsp;How I Think About Systems
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐
@@ -328,7 +439,9 @@ Built full-stack fintech applications with Angular and Spring Boot, implementing
 
 <br/>
 
-## Global Reach
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🌍 &nbsp;Global Reach
 
 <div align="center">
 
@@ -343,7 +456,9 @@ Built full-stack fintech applications with Angular and Spring Boot, implementing
 
 <br/>
 
-## Education & Certification
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🎓 &nbsp;Education & Certification
 
 <div align="center">
 
@@ -357,7 +472,9 @@ Built full-stack fintech applications with Angular and Spring Boot, implementing
 
 <br/>
 
-## GitHub Analytics
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📈 &nbsp;GitHub Analytics
 
 <div align="center">
 
@@ -377,11 +494,21 @@ Built full-stack fintech applications with Angular and Spring Boot, implementing
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
 
 <div align="center">
 
-*Building systems that scale to millions — reliably, securely, and without waking anyone up at 3 AM.*
+### 💬 &nbsp;Let's Build Something Together
+
+<br/>
+
+<img src="https://img.shields.io/badge/🟢_Open_to-Full_Time_SDE_Roles_|_Backend_|_Full_Stack_|_Cloud-58A6FF?style=for-the-badge&labelColor=0D1117" />
+
+<br/><br/>
+
+*I build systems that scale to millions — reliably, securely, and without waking anyone up at 3 AM.*
 
 <br/>
 
