@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Reddieswara%20Naidu%20Kalla&fontSize=38&fontColor=FFFFFF&fontAlignY=35&desc=Full%20Stack%20Developer%20%20%C2%B7%20%20Microservices%20Architect%20%20%C2%B7%20%20Cloud%20Engineer&descSize=15&descColor=8892b0&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:1d3557&height=200&section=header&text=Reddieswara%20Naidu%20Kalla&fontSize=40&fontColor=FFFFFF&fontAlignY=35&desc=Full%20Stack%20Developer%20%20%C2%B7%20%20Microservices%20Architect%20%20%C2%B7%20%20Cloud%20Engineer&descSize=15&descColor=8892b0&descAlignY=55&animation=fadeIn" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Building+production+systems+serving+1M%2B+users+across+3+domains;Telecom+%C2%B7+Healthcare+%C2%B7+Fintech+%7C+4+continents+%7C+25%2B+U.S.+states;5%2B+years+of+shipping+scalable+microservices+%26+cloud-native+systems" />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=520&lines=5%2B+Yrs+%7C+Microservices+%7C+Cloud-Native+Systems;Telecom+%C2%B7+Healthcare+%C2%B7+Fintech;1M%2B+Users+%7C+4+Continents+%7C+25%2B+States;99.99%25+Uptime+%7C+40%25+Cost+Reduction" />
 
 <br/>
 
@@ -19,18 +19,31 @@
 
 ## About Me
 
-```
-5+ years shipping production-grade distributed systems
-MS in Computer Science @ SUNY New Paltz (2025)
-Currently: Full Stack Developer @ Aviat Networks
+<table>
+<tr>
+<td>
 
-I specialize in designing Spring Boot microservices, Kafka event pipelines,
-and cloud infrastructure on AWS — with a focus on systems that are secure,
-observable, well-tested, and built to handle real-world scale.
+🎓 &nbsp; **MS in Computer Science** @ SUNY New Paltz (2025) &nbsp;|&nbsp; 📜 **Certified Full Stack Developer** — IIT Chennai
 
-My code runs on radio towers across 25+ U.S. states, hospital networks
-across India, and telecom infrastructure across Africa and Asia.
-```
+I'm a Full Stack Developer with **5+ years** of experience building **production-grade distributed systems** that operate at serious scale. I don't just write code — I design systems that handle **millions of users**, process **real-time telemetry from thousands of devices**, and meet **government-grade security and compliance standards**.
+
+**What sets me apart:**
+
+⚡ &nbsp;I've built **Kafka event pipelines** that process real-time data from radio towers across **25+ U.S. states** — powering predictive maintenance that cut downtime by **35%** and saved **40% in operational costs**
+
+🏥 &nbsp;I designed a **nationally certified healthcare platform (SmartEMR)** with **100% HL7 FHIR R4 compliance** — adopted by hospitals across India and integrated with the National Digital Health Mission
+
+🔒 &nbsp;I architect with **security-first thinking**: OAuth2, JWT, AES-256 encryption, RBAC — meeting enterprise and government compliance (NDHM, GDPR)
+
+☁️ &nbsp;I deploy on **AWS & Azure** with Docker + Kubernetes, achieving **99.99% uptime** with event-driven architecture and autoscaling — shipping **daily** instead of bi-weekly
+
+✅ &nbsp;I enforce **95%+ test coverage** with JUnit, Mockito & Testcontainers — and mentor teams to do the same, reducing defect rates by **20%**
+
+**My code runs across 4 continents** — on radio towers in the U.S., hospital networks in India, and telecom infrastructure across Africa and Asia.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -144,7 +157,7 @@ across India, and telecom infrastructure across Africa and Asia.
 <td>
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
-<img src="https://img.shields.io/badge/Event--Driven_Architecture-333?style=flat-square" />
+<img src="https://img.shields.io/badge/Event--Driven_Arch-333?style=flat-square" />
 </td>
 </tr>
 <tr>
@@ -358,7 +371,7 @@ Built full-stack fintech applications with Angular and Spring Boot, implementing
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KallaReddieswaraNaidu&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=1a1a2e" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KallaReddieswaraNaidu&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=112240" width="95%" />
 
 </div>
 
@@ -377,6 +390,6 @@ Built full-stack fintech applications with Angular and Spring Boot, implementing
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:1d3557&height=100&section=footer" width="100%" />
 
 </div>
