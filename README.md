@@ -13,11 +13,15 @@
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" />](mailto:reddieswaranaidusunycs@gmail.com)&nbsp;
 <img src="https://img.shields.io/badge/📍_New_Paltz,_NY-333333?style=for-the-badge" height="28" />
 
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=KallaReddieswaraNaidu&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
+
 </div>
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## About Me
 
@@ -49,7 +53,7 @@ I'm a Full Stack Developer with **5+ years** of experience building **production
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🔭 &nbsp;What I'm Currently Working On
 
@@ -77,7 +81,7 @@ I'm a Full Stack Developer with **5+ years** of experience building **production
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 &nbsp;Results That Matter
 
@@ -139,7 +143,7 @@ I'm a Full Stack Developer with **5+ years** of experience building **production
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ &nbsp;Technical Expertise
 
@@ -262,7 +266,7 @@ I'm a Full Stack Developer with **5+ years** of experience building **production
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏛️ &nbsp;System Architecture I Build
 
@@ -298,7 +302,7 @@ I'm a Full Stack Developer with **5+ years** of experience building **production
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 💼 &nbsp;Professional Experience
 
@@ -382,7 +386,7 @@ Built full-stack fintech applications with Angular and Spring Boot, implementing
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🧠 &nbsp;How I Think About Systems
 
@@ -402,7 +406,7 @@ Built full-stack fintech applications with Angular and Spring Boot, implementing
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🌍 &nbsp;Global Reach
 
@@ -419,7 +423,7 @@ Built full-stack fintech applications with Angular and Spring Boot, implementing
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🎓 &nbsp;Education & Certification
 
@@ -435,7 +439,7 @@ Built full-stack fintech applications with Angular and Spring Boot, implementing
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📈 &nbsp;GitHub Analytics
 
@@ -457,7 +461,7 @@ Built full-stack fintech applications with Angular and Spring Boot, implementing
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
