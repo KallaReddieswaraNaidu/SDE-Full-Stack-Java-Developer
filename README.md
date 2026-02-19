@@ -270,68 +270,35 @@ I'm a Full Stack Developer with **5+ years** of experience building **production
 
 ## 🏛️ &nbsp;System Architecture I Build
 
-```mermaid
-graph TB
-    subgraph CLIENT["🎨 Frontend Layer"]
-        A1[Angular SPA]
-        A2[React Components]
-    end
+<div align="center">
 
-    subgraph GATEWAY["🔐 API Gateway"]
-        G1[OAuth2 / JWT Auth]
-        G2[Rate Limiting]
-        G3[TLS/SSL Termination]
-    end
-
-    subgraph SERVICES["🏗️ Microservices Layer — Spring Boot"]
-        S1[Device Management]
-        S2[Telemetry Ingestion]
-        S3[Alarm Processing]
-        S4[User & Auth Service]
-        S5[Patient Records]
-        S6[Billing & Scheduling]
-    end
-
-    subgraph MESSAGING["📨 Event Bus"]
-        K1[Apache Kafka]
-        K2[RabbitMQ]
-    end
-
-    subgraph DATA["🗄️ Data Layer"]
-        D1[(PostgreSQL)]
-        D2[(Redis Cache)]
-        D3[(Oracle / SQL Server)]
-    end
-
-    subgraph INFRA["☁️ Cloud Infrastructure"]
-        I1[AWS ECS / EC2]
-        I2[AWS Lambda]
-        I3[Azure App Services]
-        I4[Docker + Kubernetes]
-    end
-
-    subgraph OBSERVE["📊 Observability"]
-        O1[Prometheus + Grafana]
-        O2[ELK Stack]
-        O3[AWS CloudWatch]
-    end
-
-    CLIENT --> GATEWAY
-    GATEWAY --> SERVICES
-    SERVICES --> MESSAGING
-    SERVICES --> DATA
-    MESSAGING --> SERVICES
-    SERVICES --> INFRA
-    INFRA --> OBSERVE
-
-    style CLIENT fill:#1a1a2e,stroke:#58A6FF,color:#fff
-    style GATEWAY fill:#1a1a2e,stroke:#ff6b6b,color:#fff
-    style SERVICES fill:#1a1a2e,stroke:#6DB33F,color:#fff
-    style MESSAGING fill:#1a1a2e,stroke:#FF6600,color:#fff
-    style DATA fill:#1a1a2e,stroke:#4169E1,color:#fff
-    style INFRA fill:#1a1a2e,stroke:#FF9900,color:#fff
-    style OBSERVE fill:#1a1a2e,stroke:#E6522C,color:#fff
 ```
+ 🎨 Frontend (Angular / React)
+        │
+        ▼
+ 🔐 API Gateway ── OAuth2 · JWT · TLS · Rate Limiting
+        │
+        ▼
+ 🏗️ Spring Boot Microservices
+ ┌──────────┬──────────┬──────────┬──────────┬──────────┐
+ │ Device   │ Telemetry│ Alarm    │ Patient  │ Auth &   │
+ │ Mgmt     │ Ingest   │ Process  │ Records  │ RBAC     │
+ └────┬─────┴────┬─────┴────┬─────┴────┬─────┴────┬─────┘
+      │          │          │          │          │
+      ▼          ▼          ▼          ▼          ▼
+ 📨 Event Bus ── Kafka Streams · RabbitMQ · Async Processing
+      │
+      ▼
+ 🗄️ Data Layer ── PostgreSQL · Redis · Oracle · SQL Server
+      │
+      ▼
+ ☁️ Cloud Infra ── AWS (ECS · Lambda · S3) · Azure · Docker · K8s
+      │
+      ▼
+ 📊 Observability ── Prometheus · Grafana · ELK · CloudWatch
+```
+
+</div>
 
 <br/>
 
@@ -504,9 +471,51 @@ Built full-stack fintech applications with Angular and Spring Boot, implementing
 
 <br/>
 
-<img src="https://img.shields.io/badge/🟢_Open_to-Full_Time_SDE_Roles_|_Backend_|_Full_Stack_|_Cloud-58A6FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/🟢_Status-Open_to_Opportunities-2ea44f?style=for-the-badge&labelColor=0D1117" />
 
 <br/><br/>
+
+<table>
+<tr>
+<td align="center">
+
+**🎯 &nbsp;Roles I'm Looking For**
+
+Full Stack Developer &nbsp;·&nbsp; Backend Engineer &nbsp;·&nbsp; Java/Spring Boot Developer
+<br/>
+Microservices Engineer &nbsp;·&nbsp; Cloud Engineer &nbsp;·&nbsp; Software Development Engineer (SDE)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**📍 &nbsp;Location Flexibility**
+
+✅ &nbsp;Open to **relocate anywhere in the U.S.**
+<br/>
+✅ &nbsp;Open to **remote**, **hybrid**, or **on-site** roles
+<br/>
+✅ &nbsp;U.S. work authorization in place
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**💡 &nbsp;Best Fit**
+
+Teams building **scalable distributed systems** where I can own backend architecture,
+<br/>
+design event-driven pipelines, ship to production daily, and mentor engineers —
+<br/>
+in **telecom, healthcare, fintech**, or any mission-critical domain.
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 *I build systems that scale to millions — reliably, securely, and without waking anyone up at 3 AM.*
 
